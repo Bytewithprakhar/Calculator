@@ -1,15 +1,15 @@
 # Branchless Calculator
 
-A Python calculator that performs addition, subtraction, multiplication, and division without using "if", "elif", "else", "match-case", or other conditional operation-selection structures.
+ A Python calculator that performs addition, subtraction, multiplication, and division without using "if", "elif", "else", "match-case", or other conditional operation-selection structures.
 
 ## Concept
 
-Instead of selecting operations through conditional statements, the calculator classifies any non-zero integer according to two mathematical properties:
+ Instead of selecting operations through conditional statements, the calculator classifies any non-zero integer according to two mathematical properties:
 
 - Sign (positive or negative)
 - Parity (odd or even)
 
-The combination of these properties determines which operation is performed.
+### The combination of these properties determines which operation is performed.
 
 ## Operation Classification
 
@@ -40,7 +40,7 @@ The combination of these properties determines which operation is performed.
 
 - -1, -3, -5, -7, -99, ...
 
-This means there are infinitely many valid operation values rather than a fixed set of operation codes.
+### This means there are infinitely many valid operation values rather than a fixed set of operation codes.
 
 ## Features
 
@@ -63,14 +63,9 @@ C = 5
 Output:
 15
 
-Since 6 is a positive even integer, the calculator performs addition.
+### Since 6 is a positive even integer, the calculator performs addition.
 
-## Screenshots
-![Calculator](SS1.png)
-![Calculator](SS2.png)
-![Calculator](SS3.png)
-![Calculator](SS4.png)
 
 ## Author
 
-### Prakhar Srivastava
+Prakhar Srivastava
