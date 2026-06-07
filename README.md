@@ -71,6 +71,6 @@ Since 6 is a positive even integer, the calculator performs addition.
 ![Calculator](SS3.png)
 ![Calculator](SS4.png)
 
-## Author
+# Author
 
-# Prakhar Srivastava
+## Prakhar Srivastava
