@@ -65,6 +65,12 @@ Output:
 
 Since 6 is a positive even integer, the calculator performs addition.
 
+## Screenshots
+![Calculator](SS1.png)
+![Calculator](SS2.png)
+![Calculator](SS3.png)
+![Calculator](SS4.png)
+
 ## Author
 
 # Prakhar Srivastava
