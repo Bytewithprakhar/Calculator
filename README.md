@@ -1,4 +1,4 @@
-### Branchless Calculator
+# Branchless Calculator
 
 A Python calculator that performs addition, subtraction, multiplication, and division without using "if", "elif", "else", "match-case", or other conditional operation-selection structures.
 
@@ -20,23 +20,23 @@ The combination of these properties determines which operation is performed.
 |Positive Odd| Multiplication|
 |Negative Odd| Division|
 
-# 0 is invalid and must not be entered.
+### 0 is invalid and must not be entered.
 
 ## Examples of Valid Inputs
 
-# Addition:
+### Addition:
 
 - 2, 4, 6, 8, 100, ...
 
-# Subtraction:
+### Subtraction:
 
 - -2, -4, -6, -8, -100, ...
 
-# Multiplication:
+### Multiplication:
 
 - 1, 3, 5, 7, 99, ...
 
-# Division:
+### Division:
 
 - -1, -3, -5, -7, -99, ...
 
@@ -71,6 +71,6 @@ Since 6 is a positive even integer, the calculator performs addition.
 ![Calculator](SS3.png)
 ![Calculator](SS4.png)
 
-# Author
+## Author
 
-## Prakhar Srivastava
+### Prakhar Srivastava
