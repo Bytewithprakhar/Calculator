@@ -14,7 +14,7 @@ The combination of these properties determines which operation is performed.
 ## Operation Classification
 
 |Integer Type| Operation|
-|            |          |
+|------------|----------|
 |Positive Even| Addition|
 |Negative Even| Subtraction|
 |Positive Odd| Multiplication|
